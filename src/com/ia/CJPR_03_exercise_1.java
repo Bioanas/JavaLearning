@@ -1,4 +1,4 @@
-package com.ia.test;
+package com.ia;
 
 public class CJPR_03_exercise_1 {
     public static void main(String[] args) {
